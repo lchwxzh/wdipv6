@@ -136,3 +136,5 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/1.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/山西卫视.png" group-title="山西频道",山西卫视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
