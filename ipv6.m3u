@@ -10,12 +10,16 @@ http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226165/1.m3u8
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226124/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226146/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV5+.png" group-title="央视频道",CCTV5+
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/CCTV-5plusH265_4000.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV6.png" group-title="央视频道",CCTV6
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226148/1.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV7.png" group-title="央视频道",CCTV7
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226143/1.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV8.png" group-title="央视频道",CCTV8
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226167/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV9.png" group-title="央视频道",CCTV9
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/CCTV-9H265_4000.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV10.png" group-title="央视频道",CCTV10
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226169/1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV11.png" group-title="央视频道",CCTV11
@@ -30,6 +34,8 @@ http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226150/1.m3u8
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226147/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV16.png" group-title="央视频道",CCTV16
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226120/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CCTV17.png" group-title="央视频道",CCTV17
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225726/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -100,16 +106,44 @@ http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226008/1.m3u8
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226111/1.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/康巴卫视.png" group-title="卫视频道",康巴卫视
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225773/1.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/山东教育.png" group-title="卫视频道",山东教育
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/sdjy_4000.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV1.png" group-title="卫视频道",CETV1
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225775/1.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV2.png" group-title="卫视频道",CETV2
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/CETV-2_4000.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CETV4.png" group-title="卫视频道",CETV4
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226153/1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/北京纪实科教.png" group-title="数字频道",北京纪实科教
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/bjjs_2000.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/重温经典.png" group-title="数字频道",重温经典
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/CWJD_4000.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/凤凰中文.png" group-title="数字频道",凤凰中文
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/凤凰资讯.png" group-title="数字频道",凤凰资讯
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/睛彩竞技.png" group-title="数字频道",睛彩竞技
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226116/1.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/睛彩篮球.png" group-title="数字频道",睛彩篮球
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226118/1.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226139/1.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/jyjsHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/快乐垂钓.png" group-title="数字频道",快乐垂钓
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/茶频道.png" group-title="数字频道",茶频道
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/cpd_4000.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/天元围棋.png" group-title="数字频道",天元围棋
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/tywq_2000.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/魅力足球.png" group-title="数字频道",魅力足球
+http://[2402:4e00:c052:1000:6d8:79ae:eac2:0]:32258/edge-cache02.live3.omd.sc96655.com/live/mlyy_4000.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/五星体育.png" group-title="数字频道",五星体育
 http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225732/1.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://kakaxi-1.github.io/IPTV/LOGO/乐游.png" group-title="数字频道",乐游
